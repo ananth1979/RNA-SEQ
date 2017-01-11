@@ -1,6 +1,6 @@
 # Description
 
-This course provides an introduction to the tools available through the Bioconductor project for manipulating and analysing high-throughput sequencing (HTS) data. We will present a workflow for the analysis RNA-seq data starting from aligned reads in bam format to producing a list of differentially-expressed genes. We will also describe the various resources available through Bioconductor to annotate and visualize HTS data, which can be applied to any type of sequencing experiment. 
+This course provides an introduction to the tools available through the Bioconductor project for manipulating and analysing high-throughput sequencing (HTS) data. We will present a workflow for the analysis RNA-seq data starting from aligned reads in bam format and producing a list of differentially-expressed genes. We will also describe the various resources available through Bioconductor to annotate, visualize and gain biological insight from the differential expression results.
 
 # Prerequisites
 
@@ -17,6 +17,7 @@ This course provides an introduction to the tools available through the Biocondu
 # Aims; During this course you will learn about:
 
 - Quality assessment of raw sequencing reads and aligned reads using R.
+- Sources of variation in RNA-seq data
 - Differential expression analysis using edgeR and DEseq.
-- Annotating HTS results with Bioconductor.
--  
+- Annotation resources in Bioconductor.
+- Identifying over-represented gene sets amongst a list of differentially-expressed genes
